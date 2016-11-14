@@ -20,6 +20,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    color: #00FFFF;
 }
 
 .text-vertical-center h1 {
@@ -155,7 +156,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../assets/bg.jpg) no-repeat center center scroll;
+    background: url(../assets/bgcebu.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
