@@ -1,14 +1,6 @@
-
-#This is a project for my friends.
-#Philippines
-#Represent
-
-
-#Link: http://rapollorap.herokuapp.com/
+This is a project for my friends in the Philippines.A hip-hop movement run by one of my long time friends.
 
 
 
-#Made in: Ruby on Rails
-=======
-# rapollo-rap
-A hip-hop website based in Philippines.
+
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/i7Fr7sLepgA)
