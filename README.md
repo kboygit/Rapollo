@@ -1,8 +1,12 @@
 This is a project for my friends in the Philippines.A hip-hop movement run by one of my long time friends.
 
-
-
-
+# Link to the site:
+http://rapollorap.herokuapp.com/
 <!-- [![Rapollo](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/i7Fr7sLepgA) -->
 
+Click picture below to direct you to one of their video battle:
 [![Rapollo](http://img.youtube.com/vi/i7Fr7sLepgA/0.jpg)](http://youtu.be/i7Fr7sLepgA)
+
+Battlers in Fliptop:
+This is link is all credits to Fliptop and not for profit gain
+[![Rapollo](http://img.youtube.com/vi/OxS28uUWZrM/0.jpg)](http://youtu.be/OxS28uUWZrM)
