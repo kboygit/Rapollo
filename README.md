@@ -11,5 +11,5 @@ Click picture below to direct you to one of their video battle:
 [![Rapollo](http://img.youtube.com/vi/i7Fr7sLepgA/0.jpg)](http://youtu.be/i7Fr7sLepgA)
 
 Battlers in Fliptop:
-This is link is all credits to Fliptop and not for profit gain
+This link directs you to Fliptop.All credits to Fliptop and not for monetary gain.
 [![Rapollo](http://img.youtube.com/vi/OxS28uUWZrM/0.jpg)](http://youtu.be/OxS28uUWZrM)
